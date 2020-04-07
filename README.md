@@ -1,6 +1,6 @@
 # Textract and OCR python libraries
 ## Textract
-A python library that extract useful information text from any source of data including word documents, PowerPoint presentations, PDFs, etc—so-called. 
+A python library that extract useful information text from any source of data including word documents, PowerPoint presentations, PDFs, etc.
 ## OCR
 A python library that recognize characters from images.
 
